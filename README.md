@@ -10,7 +10,7 @@ To get started with the project, follow these steps:
 - Install the dependencies: `npm install`
 - Start the development server:`npm run dev`
 
-Copy and paste the url, it will start the development server and open the game in your brower.
+This will start the development server. Open your browser and navigate to the URL provided in the terminal to access the game.
 
 ## Game Features: 
 
